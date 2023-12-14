@@ -1,0 +1,43 @@
+@media(max-width:475px){
+    .topnav {
+        overflow: hidden;
+        background-color: white;
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+  
+      .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 15px;
+      }
+      
+      .fs{
+        padding-top: 100PX;
+      }
+  
+      .fs h1{
+        font-size: 30PX;
+        width: 100%;
+      }
+  
+      .cl{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        
+      }
+  
+      .cl a{
+        font-size: 15px;
+        padding: 13px 13px;
+      }
+
+      .ax{
+        padding-top: 400px;
+      }
+  }
+  
